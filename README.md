@@ -51,9 +51,14 @@ Backend API: The backend runs on http://localhost:4000 and provides endpoints fo
 
 Challenges
 
+
 Tokenization Compliance: Ensuring compliance with regulatory standards for tokenized real estate.
 
+
+
 Privacy Preservation: Integrating Nillion Network’s privacy features while maintaining user-friendly interfaces.
+
+
 
 Scalability: Handling high transaction volumes efficiently without compromising performance.
 
